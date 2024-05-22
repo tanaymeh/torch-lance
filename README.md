@@ -1,2 +1,2 @@
-# torch-lance
-A standalone utility to save a PyTorch model in Lance file format
+# Torch Lance
+A new approach for saving and loading PyTorch model in Lance file format for easy sharding, offloading and versioning.
